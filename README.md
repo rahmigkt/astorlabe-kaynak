@@ -28,4 +28,5 @@ a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşle
 - `bolum-03-ekvatoryumlar-mekanik.json` — Astronomi: Ekvatoryumlar, Muhelif Aletler ve Mekanik Aletler (kitap s. 33-42, diğer aletler s. 120-128, 34 kayıt)
 - `bolum-04-cografya-seyrusefer.json` — Coğrafya ve Seyrüsefer: haritalar, pusulalar, deniz usturlapları, gemi modelleri (kitap s. 43-46, diğer aletler s. 130-134, 33 kayıt)
 - `bolum-05-saatler.json` — Saatler: Güneş, Su, Mum ve Mekanik (kitap s. 47-54, diğer aletler s. 136-138, 27 kayıt)
-- **Bölüm 1-5 tamam, kesintisiz.** Devamı (Bölüm 6+) bekleniyor.
+- `bolum-06-geometri-tesviye.json` — Geometri ve Tesviye: ölçüm ve çizim aletleri, pergeller, tesviye teraziler (kitap s. 55-57, diğer aletler s. 139-144, 26 kayıt)
+- **Bölüm 1-6 tamam, kesintisiz.** Devamı (Bölüm 7+) bekleniyor.
