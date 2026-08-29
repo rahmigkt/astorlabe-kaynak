@@ -24,3 +24,5 @@ Excel fiziksel envanter listesi ile 5 ciltlik a-XXX künye kayıtları arasında
 ### `hetega-envanter/eslestirme/`
 a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşleştiren, mükerrer kayıtları tespit eden çalışmalar. Bölüm bölüm ilerliyor (her bölüm bir kitap alt-başlığına karşılık geliyor).
 - `bolum-01-astronomi-rasathaneler.json` — Astronomi: Rasathaneler ve Gözlem Aletleri (kitap s. 13-21, diğer aletler s. 104-108)
+- **Bölüm 2 henüz gönderilmedi — atlanmış durumda.**
+- `bolum-03-ekvatoryumlar-mekanik.json` — Astronomi: Ekvatoryumlar, Muhelif Aletler ve Mekanik Aletler (kitap s. 33-42, diğer aletler s. 120-128, 34 kayıt)
