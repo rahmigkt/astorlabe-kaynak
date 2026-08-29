@@ -31,4 +31,5 @@ a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşle
 - `bolum-06-geometri-tesviye.json` — Geometri ve Tesviye: ölçüm ve çizim aletleri, pergeller, tesviye teraziler (kitap s. 55-57, diğer aletler s. 139-144, 26 kayıt)
 - `bolum-07-optik.json` — Optik: İbn el-Heysem deney düzenekleri, yansıma/kırılma, camera obscura (kitap s. 59-62, diğer aletler s. 146, 11 kayıt)
 - `bolum-08-fizik-teknik.json` — Fizik ve Teknik: Teraziler, Pompalar, Otomatlar, Değirmenler, Kilitler (kitap s. 63-71, diğer aletler s. 148-152, 35 kayıt)
-- **Bölüm 1-8 tamam, kesintisiz.** Devamı (Bölüm 9+) bekleniyor.
+- `bolum-09-tip.json` — Tıp: cerrahi, oftalmoloji, KBB, üroloji, jinekoloji, ortopedi aletleri (Cilt IV, s. 37-90, 36 kayıt). **Diğer bölümlerden farklı üretildi:** kaynak belge JSON değil, görsellerden oluşan markdown listesiydi (başka bir AI'nin hazırladığı) — Claude bunu a-XXX açıklamalı veritabanıyla çapraz eşleştirip aynı şemaya dönüştürdü. Excel numaraları çoğunlukla eksik (Excel dosyası Tıp'ı grup halinde özetlemiş, tek tek değil). İki kesin mükerrer tespit edildi: Saç Yakma Koteri (a-256=a-451) ve Tabar (a-255=a-457). Üç kalem (Kan Ölçüm Teknesi, Katarakt İğnesi, Balon Şırınga) a-XXX havuzunda hiç yok — gerçek boşluk.
+- **Bölüm 1-9 tamam, kesintisiz.** Devamı (Bölüm 10+) bekleniyor.
