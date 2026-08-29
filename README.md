@@ -16,6 +16,10 @@ Kitaptaki tüm eserlerin künye bilgisi — a-001'den a-505'e kadar sıralı kay
 `eserler-kunye/`'nin **açıklamalı/zenginleştirilmiş hâli** — şu an sadece a-001'den a-100'e kadar (devamı gelecek). Aynı ID'ler ama artık `curatorialText`, `keywords`, `subCategory`, `creator`, `period` gibi alanlar dolu. Bazı alanlarda (`category`, `year` formatı) da küçük düzeltmeler var. v1 silinmedi, iki versiyon karşılaştırılabilir durumda duruyor.
 - `a-001-025.json`, `a-026-050.json`, `a-051-075.json`, `a-076-100.json`
 
+### `hetega-envanter/excel-dogrulama/`
+Excel fiziksel envanter listesi ile 5 ciltlik a-XXX künye kayıtları arasındaki **tam eşleştirme** — 251 satır, format: `excel_no | İngilizce başlık | a-XXX ID | Türkçe başlık | cilt-sayfa`. 251 satırdan 250'si eşleşmiş, 1 tanesi açıkça "BULUNAMADI" işaretli (20202, "Quadrant Another", II-202). Kullanıcı 3 istisna olduğunu belirtti, 2.si henüz netleşmedi.
+- `excel-5cilt-eslesme-tam.txt`
+
 ### `hetega-envanter/eslestirme/`
 a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşleştiren, mükerrer kayıtları tespit eden çalışmalar. Bölüm bölüm ilerliyor (her bölüm bir kitap alt-başlığına karşılık geliyor).
 - `bolum-01-astronomi-rasathaneler.json` — Astronomi: Rasathaneler ve Gözlem Aletleri (kitap s. 13-21, diğer aletler s. 104-108)

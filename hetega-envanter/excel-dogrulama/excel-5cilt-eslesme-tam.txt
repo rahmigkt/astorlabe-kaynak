@@ -1,0 +1,252 @@
+20016 | Planetarium of al-Sigzi | a-233 | Gemi Formunda Usturlap | II-9,16
+20017 | Celestial Globe of Abdarrahman al-Sufi | a-247 | Planetaryumlar ve Gök Küreleri | II-16-19
+20018 | Celestial Globe of Coronelli | a-247 | Planetaryumlar ve Gök Küreleri | II-16-19
+20025 | Observatory of Raiy | a-141 | Rey Rasathanesi Sekstantı (el-Hucendî) | II-25
+20026 | Main Instrument | a-004 | Hemedân Rasathanesi Ana Aleti | II-26
+20032 | Sextant of Maraga | a-374 | Rasathaneler (bölüm) | II-19-77
+20038 | Mural Quadrant (Maraga) | a-005 | Duvar Kadranı (Merâğa) | II-38-39
+20039 | Armillary Sphere (Maraga) | a-505 | Beş Halkalı Gözlem Küresi | II-40
+20041 | Solstitial Armilla | a-006 | Gündönümü Halkası | II-41
+20042 | Equinotial Armilla | a-121 | Ekinoksal Çember | II-42
+20043 | Instrument with movable sight | a-007 | Hareket Edebilir Nişangâhlı Alet | II-43
+20044 | Instrument with two Quadrants | a-009 / a-408 | Çift Kadranlı Alet | II-44
+20045 | Instrument with two arms | a-010 / a-409 | Çift Bacaklı Alet | II-45
+20046 | Altitudes and Azimuths (Maraga VIII) | a-011 | Yükseklik ve Azimut Ölçme Aleti | II-46-47
+20048 | Sine upon Vertical Scale | a-012 / a-410 | Mükemmel Alet | II-50
+20050 | Perfect Instrument (Maraga X) | a-012 | Mükemmel Alet | II-50
+20052 | Dresden Celestial Globe | a-218 / a-150 | Gökyüzü Küresi (Merâğa) | II-160
+20053 | Armillary Sphere (Istanbul I) | a-151 | Çemberli Küre (İstanbul) | II-53,63
+20054 | Mural Quadrant (Istanbul II) | a-240 | Ahşap Kadran | II-53-61
+20055 | Altitudes-Azimuths (Istanbul III) | a-015 | Azimut ve Yükseklik Aleti | II-55,66
+20056 | Instrument with two Arms (Istanbul IV) | a-016 | Çift Bacaklı Alet (İstanbul) | II-56-57,61
+20058 | Wooden Quadrant (Istanbul V) | a-240 / a-503 | Ahşap Büyük Kadran | II-53-61
+20059 | Parallactic Ruler (Istanbul VI) | a-238 | Genişletilmiş Paralaks Cetveli | II-47-50
+20060 | Instrument with Chords (Istanbul VII) | a-014 / a-411 | Nişangâhlı Aletler (Kirişli Alet) | II-35,60
+20061 | Distances between Heavenly Bodies | a-013 | Yıldızlar Arası Mesafe Aleti | II-34,36,61,64
+20062 | Altitudes-Azimuths (Tycho I) | a-157 | Hven Rasathanesi Aletleri | II-62-68
+20063 | Zodiacal Armillary Sphere (Tycho II) | a-153 | Çemberli Küre (Tycho Brahe) | II-63
+20064 | Astronomical Sextant (Tycho III) | a-143 | Sekstant (Tycho Brahe) | II-36,64
+20066 | Large Azimuthal Semicircle (Tycho V) | a-015 | Azimut ve Yükseklik Aleti | II-55,66
+20068 | Large Wooden Quadrant (Tycho VII) | a-017 | Ahşap Büyük Kadran | II-68
+20069 | Observatory of Samarqand | a-373 / a-142 | Semerkant Rasathanesi | II-69-71
+20072 | Observatory of Jaipur | a-144 / a-266 | Samrât Yantra / Jaipur | II-72-75
+20076 | Jantar Mantar Delhi | a-018 / a-148 | Delhi Rasathanesi | II-76-77
+20086 | Nastulus Astrolabe | a-124 | Usturlap (Nastülus, 927) | II-86-87
+20087 | Second astrolabe of Nastulus | a-124 | Nastülus'un 2. Usturlabı | II-86-87
+20088 | Hamid b. Ali al-Wasiti | a-137 | Küresel Usturlap (Kustâ b. Lükâ geleneği) | II-121
+20089 | Ahmad b. Halaf | a-130 | Usturlap (Osmanlı, 1680) | II-109
+20090 | Astrolabe of al-Khujandi | a-158 / a-414 | el-Hucendî'nin Usturlabı | II-25
+20091 | Catalan-Carolingian Astrolabe | a-125 | Usturlap (Katalan, 10. yy) | II-91
+20092 | Lupitus Manuscript Astrolabe | a-021 | Fransız-Gotik Takvim Aleti | II-171
+20094 | Pope Silvester II | a-125 | Usturlap (Katalan model) | II-91
+20095 | Toledo Muhammad b. Al-Saffar 1029 | a-203 | Usturlap (Muhammed b. eş-Şaffâr) | II-95
+20096 | Zaragoza Ahmad b. Muhammad 1079 | a-127 | Usturlap (Hamâ'irî, 1228 geleneği) | II-100
+20097 | Valencia Ibrahim b. Said | a-126 | Usturlap (Hamâ'irî, 1216) | II-98
+20098 | Sevilla Muhammad b. Futuh 1216 | a-126 | Usturlap (Hamâ'irî, 1216) | II-98-99
+20100 | Muhammad b. Futuh al-Hamairi | a-127 | Usturlap (Hamâ'irî, 1228) | II-100
+20101 | Marine Museum Istanbul Astrolabe | a-128 | Usturlap (Deniz Müzesi) | II-101-102
+20103 | al-Misri for Muzaffaraddin Musa 1252 | a-135 | Evrensel Usturlap (Serrâc geleneği) | II-119
+20104 | al-Sahl al-Asturlabi al-Nisaburi | a-108 | Evrensel Usturlap (Serrâc) | II-119
+20105 | Sultan Malik Al-Ashraf | a-171 | el-Melik el-Eşref Usturlapları | III-58-60
+20106 | Arabic Model | a-132 | Usturlap (öğretim amaçlı) | II-115
+20107 | Samsaddin Muhammad Saffar 15th c. | a-203 | Usturlap (Şaffâr geleneği) | II-95
+20108 | Muhammad Muqim al-Yazdi 1647 | a-129 | Usturlap (Yezdî) | II-108
+20109 | Sultan Beyazid II | a-128 | Usturlap (Osmanlı geleneği) | II-101
+20111 | Spanish-Gothic 14th c. | a-131 | Usturlap (İspanyol-Gotik) | II-111
+20112 | Martin Brunold | a-132 | Usturlap (öğretim amaçlı) | II-115
+20113 | Gualterus Arsenius 1570 | a-132 | Usturlap (Avrupa geleneği) | II-115
+20114 | Erasmus Habermal | a-132 | Usturlap (Avrupa) | II-115
+20116 | Universal Disc Muhammad ibn Hudail | a-133 | Evrensel Disk (İbn Hüzeyl) | II-116
+20117 | Safiha by Muhammad ibn Futuh | a-134 / a-419 | Evrensel Disk (Hamâ'irî) | II-116-117
+20118 | Libros del saber Universal Disc | a-420 | Evrensel Disk (Libros del saber) | II-119
+20119 | Ahmad ibn Al-Sarrag Universal | a-108 / a-318 | Evrensel Usturlap (Serrâc) | II-119
+20123 | Spherical Astrolabe al-Nairizi | a-356 | en-Neyrîzî'nin Alet Yorumları | II-120-123
+20125 | Spherical Astrolabe Al-Biruni | a-109 | Küresel Usturlap (Harrânî/Bîrûnî) | I-16
+20127 | Spherical Astrolabe al-Marrakusi | a-277 | el-Marrâkuşî'nin Aletleri | III-88-90
+20129 | Spherical Astrolabe Alfonso | a-486 | X. Alfons Libros del saber | II-129
+20131 | Oxford Astrolabe | a-137 | Küresel Usturlap (Kustâ/Oxford) | II-131
+20133 | Spherical Astrolabe 1070/1660 | a-137 | Küresel Usturlap (17. yy) | II-133
+20134 | Linear Astrolabe | a-107 | Evrensel Disk (Zerkâlî) | II-116
+20137 | Sine Quadrant Ali b. Al-Sihab 735 | a-252 | Tanjant Kadranı | II-137
+20138 | Sine Quadrant Magrib | a-140 | Güneş Kadranı | II-136-144
+20139 | Sakkaziya Double Quadrant | a-418 | Şakkâziyye Usturlap | II-83,117
+20140 | Double Quadrant | a-408 | Çift Kadranlı Alet | II-44
+20141 | Meteoroscope Peter Apian | a-122 | Johannes de Lineriis Ekvatoryumu | II-175
+20142 | Dastur Quadrant | a-252 | Tanjant Kadranı | II-137
+20144 | Quadrant Replica 18th c. | a-140 | Güneş Kadranı | II-136-144
+20146 | Meridian by Ibn al-Haitam | a-156 | Camera Obscura (İbn Heysem) | II-13
+20147 | Instrument with triangle | a-320 | Cetvel Pergeli (Mükemmel Alet) | II-50-51
+20148 | 1st Three instruments Altitudes | a-120 | Kapsamlı Alet (el-Hucendî) | II-151
+20149 | 2nd Three instruments Altitudes | a-120 | Kapsamlı Alet | II-151
+20150 | 3rd Three instruments Altitudes | a-120 | Kapsamlı Alet | II-151
+20151 | Universal Instrument | a-108 | Evrensel Usturlap (Serrâc) | II-119
+20154 | Torquetum | a-106 | Torquetum (Câbir b. Eflah) | I-34
+20155 | Box of Rubies (Ibn al-Shatir) | a-024 | Şandük el-Yavâkît | II-157
+20158 | Sidi Ali Reis Torquetum | a-106 | Torquetum | I-34
+20161 | Sun-Dial Equatorial Ring | a-305 | Güneş Saati (muvakkithane) | III-85-86
+20162 | Table Sundial Brunold | a-305 | Güneş Saati | III-85-86
+20163 | Another Table Sundial | a-305 | Güneş Saati | III-85-86
+20164 | Mechanical-Astronomical Calendar al-Biruni | a-123 | Ay Kutusu (mekanik takvim) | II-164-165
+20166 | Altitude of Stars in Minutes | a-248 | Üç İpli Gözlem Sopası | II-145-172
+20168 | Calendar Muhammad b. Abi Bakr 1st Model | a-022 | Mekanik Takvim | II-165-171
+20172 | Sphere turns uniformly | a-023 | Kendi Çevresinde Dönen Küreli Alet | II-172
+20177 | Equatorium Abu Gafar al-Hazin | a-001 | Zîc eş-Şafâ'ih | I-20
+20183 | Equatorium al-Zarqali | a-272 / a-422 | ez-Zerkâlî Ekvatoryumu | II-183
+20187 | Equatorium Campanus | a-026 | Campanus Ekvatoryumu | II-188
+20189 | Equatorie | a-122 | Johannes de Lineriis Ekvatoryumu | II-175
+20192 | Tabaq al-Manatiq al-Kasi | a-027 / a-424 | el-Kâşî'nin Tabak el-Menâtık'ı | II-192
+20196 | Plate of Conjunctions al-Kasi | a-027 | el-Kâşî'nin Tabak el-Menâtık'ı | II-192
+20198 | Organum Uranicum Johannes Schöner | a-027 | el-Kâşî (geleneği) | II-192
+20202 | Quadrant Another | BULUNAMADI | - | II-202
+31021 | Terrestrial Globe Ma'mun | a-396 | Me'mûn Dünya Haritası | I-105-110
+31026 | Metal world map al-Idrisi | a-397 / a-474 | el-İdrîsî'nin Dünya Haritası | I-117-133
+31030 | Measuring Latitudes | a-113 | Yakup Sopası | I-81
+32045 | Kamal | a-302 | Kamal (yükseklik ölçme) | III-45-53
+32046 | Jacob's Staff al-Kindi | a-113 | Yakup Sopası | I-81
+32047 | Jacob's Staff top/bottom | a-113 | Yakup Sopası | I-81
+32048 | Davis Quadrant | a-302 | Kamal | III-45-53
+32049 | Marine Astrolabe Vasco de Gama | a-227 | Denizcilik Aletleri | III-45-53
+32050 | Marine Astrolabe Diogo Ribeiro | a-227 | Denizcilik Aletleri | III-45-53
+32051 | Marine Astrolabe | a-227 | Denizcilik Aletleri | III-45-53
+32052 | Nautical Quadrant | a-302 | Kamal | III-45-53
+32053 | Simple Sand clock | a-226 | Doğu/Kuzey Afrika Saatleri | III-85-107
+32054 | Caravel | a-228 | Gemi Modelleri | III-54-56
+32055 | Daw (Dhow) | a-228 | Gemi Modelleri | III-54-56
+32057 | Fish Compass | a-002 | Pusula («Kardan» sistemi) | I-80
+32058 | Floating Compass al-Malik al-Asraf | a-171 | el-Melik el-Eşref Pusula | III-58-60
+32060 | Needle Compass Peregrinus | a-002 | Pusula | I-80
+32062 | Advanced Compass Indian Ocean | a-168 | Denizcilik Pusulası | III-38-43
+32065 | Compass Ibn Majid | a-168 | Denizcilik Pusulası | III-38-43
+32066 | Device Additional Attachment | a-162 | Pusula «İğne Evi» | III-43
+32069 | Ship's Compass George Fournier | a-168 | Denizcilik Pusulası | III-38-43
+32071 | Two Ottoman Types Compass | a-168 | Denizcilik Pusulası | III-38-43
+32077 | Prayer Compass | a-305 | Namaz Vakitleri Pergel/Saat | III-85-86
+33085 | Compass Times of Prayer | a-222 / a-426 | Namaz Vakitleri Pergel | III-85
+33086 | Chandelier Clock 12 lamps | a-163 | Avize Saat (İbn Yünis) | III-86
+33087 | Sundial al-Malik al-Ashraf | a-171 | el-Melik el-Eşref Risalesi | III-58-60
+33088 | Cylindrical Sundial | a-305 | Güneş Saati | III-85-86
+33090 | Sundial Locust Leg | a-305 | Güneş Saati (Çekirge bacağı) | III-85-86
+33091 | Sundial Omeyyad Mosque Damascus | a-305 | Şam Emevî Camii Saati | III-85-86
+33093 | Sundial Ibn al-Muhallabi | a-305 | İbn Muhallebî Güneş Saati | III-85-86
+33096 | Candle Clock with Scribe | a-166 | el-Cezerî Fincan Saati | III-96-105
+33097 | Andalousian Candle Clock 12 Doors | a-431 | İspanyol-Arap Saatleri | III-108-117
+33100 | Water Clock with elephant | a-166 | el-Cezerî Filli Su Saati | III-96-105
+33103 | Beaker Portable Water Clock al-Jazari | a-167 | el-Cezerî Yolculuk Saati | III-102-105
+33110 | Mercury Clock | a-028 | Cıva Saati (el-Murâdî) | III-110
+33112 | Spanish-Arabic Candle Clock | a-431 | İspanyol-Arap Saatleri | III-108-117
+33113 | Spanish-Arabic Sundial | a-431 | İspanyol-Arap Saatleri | III-108-117
+33114 | Sundial Ibn al-Raqqam | a-431 | İspanyol-Arap geleneği | III-108-117
+33115 | Sundial Pedro Nunes | a-305 | Güneş Saati | III-85-86
+33117 | Balance of Minutes | a-169 | Mîzân el-Hikme (el-Hâzinî) | III-117 / V-9
+33119 | Taqiyaddin 1st Weight Driven | a-430 | Takiyyeddîn Mekanik Saatleri | III-118-119
+33121 | Taqiyaddin 2nd Clock Spring | a-430 | Takiyyeddîn Mekanik Saatleri | III-118-119
+34138 | Leveling Instrument Square/Triangle | a-329 | Ölçüm ve Çizim Aletleri | III-140-161
+34139 | Leveling Instrument Ibn Sina | a-329 | Ölçüm ve Çizim Aletleri | III-140-161
+34140 | Levelling Scale Ibn Luyun I | a-329 | Ölçüm ve Çizim Aletleri | III-140-161
+34141 | Levelling Scale Ibn Luyun II/III | a-329 | Ölçüm ve Çizim Aletleri | III-140-161
+34142 | Leveling Al-Marrakusi I | a-277 | el-Marrâkuşî Aletleri | III-88-90
+34143 | Leveling Al-Marrakusi II/III | a-277 | el-Marrâkuşî Aletleri | III-88-90
+34144 | Circular Leveling | a-329 | Ölçüm ve Çizim Aletleri | III-140-161
+34145 | Leveling Scale Ottoman | a-329 | Ölçüm ve Çizim Aletleri | III-140-161
+34146 | Long Compasses | a-030 | Büyük Yarım Daire Pergeli | III-149
+34147 | Compasses Large Semicircles | a-030 | Büyük Yarım Daire Pergeli | III-149
+34148 | Centre of three points (al-Jazari) | a-031 | Küre Üzerinde Üç Nokta Merkezi | III-150
+34149 | Compasses conic sections | a-030 | Büyük Daire Pergeli | III-149
+34151 | Compasses conic sections 2nd | a-030 | Büyük Daire Pergeli | III-149
+34152 | Compasses Nicomedes | a-030 | Pergel | III-149
+34154 | Pair of Compasses / Protractor | a-032 | Açı Ölçer (Osmanlı) | III-156
+34155 | Device Dividing Circles | a-033 | Daireleri Bölümleme Düzeneği | III-157
+34156 | Device Dividing Diameters | a-033 | Daireleri Bölümleme Düzeneği | III-157
+34157 | Foldable Double Ruler | a-033 | Daire Bölümleme | III-157
+34158 | Compasses Bend Points / Tripod | a-030 | Pergeller | III-149
+35170 | Reflection Light Ibn al-Haitam | a-034 | Yansıma Aleti | III-172-173
+35172 | Moonlight Observation | a-276 | Ay Işığı Deney Düzeneği | III-174-184
+35176 | Refraction Light | a-275 | İbn Heysem Optik Aletleri | III-172-186
+35178 | Light rays early morning | a-275 | İbn Heysem Optik Aletleri | III-172-186
+35180 | Accidental light | a-275 | İbn Heysem Optik Aletleri | III-172-186
+35182 | Camera obscura Ibn al-Haitam | a-156 | Camera Obscura | II-13 / III-185
+35185 | Problem of Ibn al-Haitam | a-275 | İbn Heysem Optik | III-172-186
+41035 | Blood measuring after bloodletting | a-280 | Koterler/Cerrahi Aletler (grup) | IV-35-94
+41036 | Medical/Surgical Instruments | a-281 | Cerrahi Aletler Listesi (Zehrâvî) | IV-90
+41082 | Orthopaedic bench | a-068 | Germe Bankı | IV-82
+42111 | Distillation Rose-water al-Zahrawi | a-177 | Gül Suyu Damıtım (Zehrâvî) | IV-111-112
+42113 | Distillation al-Mizza | a-178 | ez-Zücâc el-Hikmî (Dımeşkî) | IV-117
+42117 | Retort surrounded by steam | a-178 | Gül Suyu Damıtım | IV-117
+42120 | Alembic | a-172 | İmbik | IV-109,125
+42123 | Sublimation dry substances / Another Utal | a-083 | Aludel | IV-104,123,143
+42124 | Vessels two similar glass | a-074 | Scutellae | IV-124
+42125 | Blind alembics (imbiq a'ma) | a-172 | İmbik (kör) | IV-125
+42126 | Alembic with beak | a-172 | İmbik (gagalı) | IV-126
+42127 | Double Alembic | a-075 | Çifte İmbik | IV-127
+42128 | Alembic beak top/below | a-172 | İmbik | IV-128
+42129 | 'Doubled' gourd | a-174 | Vasce Congelationis | IV-130
+42130 | Retort strongly bent beak | a-172 | İmbik | IV-130
+42131 | Phial/Round bottomed Retort | a-172 | İmbik | IV-131
+42132 | Phials/Flat-bottom Retorts | a-172 | İmbik | IV-132
+42133 | Phials round base | a-172 | İmbik | IV-133
+42134 | Round retort clay | a-085 | Ampulla lutata | IV-134
+42135 | Vessel wide necks carafe | a-076 | Geniş Boğazlı Kap | IV-135
+42136 | Mace-shaped / Sphere vessel | a-080 | Cornu | IV-140
+42137 | Vessel dissolution spirits | a-078 | Cannutum | IV-137
+42138 | Apparatus dissolution spirits | a-079 | Caxa | IV-138
+42139 | Capillary filter beaker | a-172 | İmbik/Filtre | IV-139
+42140 | Spherical dissolution / Cornu | a-080 | Cornu | IV-140
+42141 | Kiln fans itself | a-081 | «Kendi Kendisini Yelleyen» Fırın | IV-141
+42142 | Vas decoctionis mercuris | a-082 | Cıva Isıtma Aleti | IV-142
+42143 | Aludel | a-083 | Aludel | IV-143
+42144 | Kiln chemicals operations | a-261 | Câbir Fırın ve Ocakları | IV-103-109
+42145 | Kiln Liber florum Geberti | a-175 | Vas Decoctionis Elixir | IV-147
+42146 | Kiln with Alembic | a-258 | er-Râzî Distilasyon Düzeneği | IV-109-110
+42147 | Kiln glass lead / Vas decoctionis elixir | a-175 | İksir Pişirme Fırını | IV-147
+42148 | Cauldron lion paws / Kiln cap | a-176 | Sirke Dolu Kazan | IV-150
+42149 | Kiln elephant's trunk | a-176 | Ocak | IV-149
+42150 | Apparatus unknown function | a-176 | Sirke Kazanlı Ocak | IV-150
+42151 | Kiln Liber florum Geberti N52 | a-175 | İksir Pişirme | IV-151
+42152 | Kiln artificial gems | a-175 | İksir Pişirme | IV-152
+42153 | Kiln Zosimos | a-175 | İksir Pişirme | IV-153
+43172 | Rock Crystal billaur | a-384 | Mineraller (bölüm) | IV-155-205
+43189 | Pyrolusite magnisiya | a-384 | Mineraller | IV-155-205
+43190 | Eagle Stone Hajar al-uqab | a-384 | Mineraller | IV-155-205
+43204 | Jet Sabag | a-384 | Mineraller | IV-155-205
+51005 | Balance of Wisdom Mizan al-Hikma | a-169 / a-441 | Mîzân el-Hikme | III-117 / V-9
+51007 | Balance | a-183 | İbreli Terazi (kabbân) | V-4-6
+51009 | Numerical Determination Specific Gravity | a-089 | el-Hâzinî Areometresi | V-9-10
+51016 | Screw pump | a-197 | Arşimed Vidası | V-16-19
+51019 | Bucket Chain | a-215 | Benû Mûsâ İki Pistonlu Pompa | V-16-20
+51023 | Tympanum | a-184 | Sâkiye (kovalı çark) | V-23
+51025 | Lifting water pool draught animal al-Jazari | a-098 | el-Cezerî Su Kaldıran Aleti | V-25-27
+51027 | Pumping station water wheel al-Jazari | a-098 | el-Cezerî Su Kaldıran Aleti | V-25-27
+51030 | Ship's mill | a-090 | Gemi Değirmeni | V-30
+51032 | Windmill | a-092 | Yel Değirmeni | V-32-34
+51037 | Steam-Driven turning roast meat | a-206 / a-433 | Buharla Çalışan Döner Şiş Çeviricisi | V-37
+51039 | Turning roast meat hot air | a-207 | Sıcak Hava Türbinli Şiş Çeviricisi | V-37
+51040 | Apparatus turning roast meat | a-208 | Ağırlık Tahrikli Şiş Çeviricisi | V-37
+51041 | Hoist-Lifting gear drive Taqiyaddin | a-111 | İki Pistonlu Su Cihazı | I-75
+51042 | Block and tackle Taqiyaddin | a-111 | Su/Mekanik Cihaz | I-75
+51043 | Lifting objects from water | a-093 | Nesneleri Sulardan Kaldırma | V-43
+51045 | Lamp does not go out strong wind Banu Musa | a-094 | Allah Lambası (sonsuz ışık) | V-46-47
+51056 | Combination Lock al-Jazari | a-097 | Şifreli Kilit | V-56-58
+51059 | Door lock four belts al-Jazari | a-201 | Kilit Mekanizmaları | V-56-59
+51060 | Perpetuum Mobile | a-194 | Perpetuum Mobile | V-60
+52068 | Nureddin Hospital | a-297 | Musikâr / Müzik Tedavisi | V-75
+53106 | Traction Trabuchet | a-189 | Mancınık | V-106-118
+53107 | Counterweight Trebuchet | a-189 | Mancınık | V-106-118
+53108 | Large Counterweight Trebuchet | a-189 | Mancınık | V-106-118
+53110 | Counterweight Trebuchet Arrow Ejector | a-099 | Büyük Ok Atarı | V-114
+53112 | Counterweight Trebuchet Crossbow | a-189 | Mancınık | V-106-118
+53113 | Windlass Crossbow | a-442 | Ziyâr (Tatar Yayı) | V-108-109
+53114 | Large Tripple Crossbow-Ballista | a-099 | Büyük Ok Atarı | V-114
+53115 | Trebuchet Leonardo da Vinci | a-344 | Leonardo Savaş Makineleri | V-95
+53119 | Trebuchet distance regulator Leonardo | a-344 | Leonardo Savaş Makineleri | V-95
+53120 | Fire-pot / Biological Grenade | a-190 | Bomba (ikrîh borucuklu) | V-120
+53122 | Grenades X 11 | a-209 | Seramik Bombalar (fitilli) | V-122-123
+53124 | Flame Thrower | a-102 | Alev Fışkırtıcısı | V-124
+53125 | Torpedo Rocket | a-101 | «Hareket Eden Yanan Yumurta» | V-124-126
+53127 | Grenade chemical war materials | a-209 | Seramik Bombalar | V-122-123
+53128 | Rockets Ottoman Lagari | a-191 | Roket ve Ateşli Oklar | V-120-130
+53131 | Cannon | a-192 | Top (erken ateşli silah) | V-131-135
+53133 | Hand Firearm | a-192 | Top | V-131-135
+53134 | Ballistic Gauge | a-192 | Top | V-131-135
+53135 | Ballistic Instrument Leveling | a-188 | Açı Ölçer (mancınıkta) | V-108
+53136 | Fortification Towers | a-193 | Debbâbe (kuşatma makinesi) | V-136-138
+53137 | Zahhafa | a-103 | Sürülebilir Şahmerdan Koçbaşı | V-93,137-138
