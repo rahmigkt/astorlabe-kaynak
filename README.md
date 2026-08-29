@@ -35,9 +35,9 @@ a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşle
 | 7 | Optik | s.59-62 | s.146 | ✅ `bolum-07-optik.json` |
 | 8 | Fizik ve Teknik | s.63-71 | s.148-152 | ✅ `bolum-08-fizik-teknik.json` |
 | 9 | Askeri Teknoloji | s.73-77 | s.154-158 | ✅ `bolum-09-askeri-teknoloji.json` |
-| 10 | Kimya | s.79-83 | s.160-164 | ❌ **henüz gönderilmedi** |
+| 10 | Kimya | s.79-83 | s.160-164 | ✅ `bolum-10-kimya.json` |
 | 11 | Tıp | s.85-93 | s.166-167 | ✅ `bolum-11-tip.json` (bkz. not) |
 
 **Düzeltme notu:** Tıp dosyası ilk başta yanlışlıkla "bolum-09" olarak kaydedilmişti (kaynak belge görsellerden derlenmiş markdown olduğu için bölüm numarası belirsizdi). Kullanıcının bu tabloyu paylaşmasıyla doğru yerine (Bölüm 11) taşındı. O dosyanın içindeki kayıt bazlı `kitap_sayfa`/`kitap_cilt` alanları katalog sayfası değil, Sezgin'in 5 ciltlik "İslam'da Bilim ve Teknik" eserindeki asıl kaynak sayfasını gösteriyor (çoğunlukla Cilt IV, s.37-90) — iki ayrı sayfalama sistemi olduğu dosya içinde ayrıca not edildi.
 
-**Bölüm 10 (Kimya) eksik — sıradaki boşluk budur.**
+**Bölüm 1-11 TAMAMLANDI — kesintisiz, tam tablo dolduruldu.**
