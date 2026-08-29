@@ -30,4 +30,5 @@ a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşle
 - `bolum-05-saatler.json` — Saatler: Güneş, Su, Mum ve Mekanik (kitap s. 47-54, diğer aletler s. 136-138, 27 kayıt)
 - `bolum-06-geometri-tesviye.json` — Geometri ve Tesviye: ölçüm ve çizim aletleri, pergeller, tesviye teraziler (kitap s. 55-57, diğer aletler s. 139-144, 26 kayıt)
 - `bolum-07-optik.json` — Optik: İbn el-Heysem deney düzenekleri, yansıma/kırılma, camera obscura (kitap s. 59-62, diğer aletler s. 146, 11 kayıt)
-- **Bölüm 1-7 tamam, kesintisiz.** Devamı (Bölüm 8+) bekleniyor.
+- `bolum-08-fizik-teknik.json` — Fizik ve Teknik: Teraziler, Pompalar, Otomatlar, Değirmenler, Kilitler (kitap s. 63-71, diğer aletler s. 148-152, 35 kayıt)
+- **Bölüm 1-8 tamam, kesintisiz.** Devamı (Bölüm 9+) bekleniyor.
