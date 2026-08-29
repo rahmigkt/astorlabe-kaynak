@@ -13,9 +13,9 @@ Kitaptaki tüm eserlerin künye bilgisi — a-001'den a-505'e kadar sıralı kay
 - `a-001-105.json`, `a-106-205.json`, `a-206-305.json`, `a-306-405.json`, `a-406-505.json`
 
 ### `hetega-envanter/eserler-kunye-v2-acikamali/`
-`eserler-kunye/`'nin **açıklamalı/zenginleştirilmiş hâli** — şu an **a-001'den a-475'e kadar tam** (505'in 475'i). Aynı ID'ler ama artık `curatorialText`, `keywords`, `subCategory`, `creator`, `period` gibi alanlar dolu. v1 silinmedi, iki versiyon karşılaştırılabilir durumda duruyor.
-- `a-001-025.json` ... `a-451-475.json` (19 dosya, tam)
-- **Kalan:** a-476 → a-505 (30 kayıt) + kullanıcının ayrıca ekleyeceğini belirttiği "konuyla ilgisiz" son bölüm bekleniyor
+`eserler-kunye/`'nin **açıklamalı/zenginleştirilmiş hâli** — **a-001'den a-505'e kadar TAMAMLANDI** (505/505, boşluk yok, tekrar yok — doğrulandı). Aynı ID'ler ama artık `curatorialText`, `keywords`, `subCategory`, `creator`, `period` gibi alanlar dolu. v1 silinmedi, iki versiyon karşılaştırılabilir durumda duruyor.
+- `a-001-025.json` ... `a-476-505.json` (20 dosya, tam seri)
+- Kullanıcının ayrıca ekleyeceğini belirttiği "konuyla ilgisiz" bölüm henüz gelmedi (505 rakamının dışında, ayrı bir ekleme olacak)
 
 ### `hetega-envanter/excel-dogrulama/`
 Excel fiziksel envanter listesi ile 5 ciltlik a-XXX künye kayıtları arasındaki **tam eşleştirme** — 251 satır, format: `excel_no | İngilizce başlık | a-XXX ID | Türkçe başlık | cilt-sayfa`. 251 satırdan 250'si eşleşmiş, 1 tanesi açıkça "BULUNAMADI" işaretli (20202, "Quadrant Another", II-202). Kullanıcı 3 istisna olduğunu belirtti, 2.si henüz netleşmedi.
