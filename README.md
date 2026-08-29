@@ -13,9 +13,10 @@ Kitaptaki tüm eserlerin künye bilgisi — a-001'den a-505'e kadar sıralı kay
 - `a-001-105.json`, `a-106-205.json`, `a-206-305.json`, `a-306-405.json`, `a-406-505.json`
 
 ### `hetega-envanter/eserler-kunye-v2-acikamali/`
-`eserler-kunye/`'nin **açıklamalı/zenginleştirilmiş hâli** — şu an **a-001'den a-425'e kadar** (505'in 425'i tamam). Aynı ID'ler ama artık `curatorialText`, `keywords`, `subCategory`, `creator`, `period` gibi alanlar dolu. v1 silinmedi, iki versiyon karşılaştırılabilir durumda duruyor.
-- `a-001-025.json` ... `a-401-425.json` (17 dosya, 25'lik dilimler halinde)
-- **Kalan:** a-426 → a-505 (80 kayıt) bekleniyor
+`eserler-kunye/`'nin **açıklamalı/zenginleştirilmiş hâli** — şu an **a-001'den a-463'e kadar** (505'in 450'si tam, 13'ü kısmi). Aynı ID'ler ama artık `curatorialText`, `keywords`, `subCategory`, `creator`, `period` gibi alanlar dolu. v1 silinmedi, iki versiyon karşılaştırılabilir durumda duruyor.
+- `a-001-025.json` ... `a-426-450.json` (18 dosya, tam)
+- `a-451-463-KISMI.json` — **19.json bozuk geldi (JSON syntax hatası, ~satır 273'te kesilmiş/hatalı)**, sadece ilk 13 kayıt (a-451→a-463) kurtarılabildi. a-464→a-475 arası eksik, dosyanın sağlamının tekrar gönderilmesi gerekiyor.
+- **Kalan:** a-464 → a-505 (42 kayıt, ayrıca kullanıcının "konuyla ilgisi yok, ayrıca eklerim" dediği son bölüm de dahil)
 
 ### `hetega-envanter/excel-dogrulama/`
 Excel fiziksel envanter listesi ile 5 ciltlik a-XXX künye kayıtları arasındaki **tam eşleştirme** — 251 satır, format: `excel_no | İngilizce başlık | a-XXX ID | Türkçe başlık | cilt-sayfa`. 251 satırdan 250'si eşleşmiş, 1 tanesi açıkça "BULUNAMADI" işaretli (20202, "Quadrant Another", II-202). Kullanıcı 3 istisna olduğunu belirtti, 2.si henüz netleşmedi.
