@@ -22,14 +22,22 @@ Excel fiziksel envanter listesi ile 5 ciltlik a-XXX künye kayıtları arasında
 - `excel-5cilt-eslesme-tam.txt`
 
 ### `hetega-envanter/eslestirme/`
-a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşleştiren, mükerrer kayıtları tespit eden çalışmalar. Bölüm bölüm ilerliyor (her bölüm bir kitap alt-başlığına karşılık geliyor).
-- `bolum-01-astronomi-rasathaneler.json` — Astronomi: Rasathaneler ve Gözlem Aletleri (kitap s. 13-21, diğer aletler s. 104-108)
-- `bolum-02-usturlaplar.json` — Astronomi: Usturlaplar — Standart, Küresel, Evrensel, Kadran (kitap s. 23-32, diğer aletler s. 110-118, 39 kayıt)
-- `bolum-03-ekvatoryumlar-mekanik.json` — Astronomi: Ekvatoryumlar, Muhelif Aletler ve Mekanik Aletler (kitap s. 33-42, diğer aletler s. 120-128, 34 kayıt)
-- `bolum-04-cografya-seyrusefer.json` — Coğrafya ve Seyrüsefer: haritalar, pusulalar, deniz usturlapları, gemi modelleri (kitap s. 43-46, diğer aletler s. 130-134, 33 kayıt)
-- `bolum-05-saatler.json` — Saatler: Güneş, Su, Mum ve Mekanik (kitap s. 47-54, diğer aletler s. 136-138, 27 kayıt)
-- `bolum-06-geometri-tesviye.json` — Geometri ve Tesviye: ölçüm ve çizim aletleri, pergeller, tesviye teraziler (kitap s. 55-57, diğer aletler s. 139-144, 26 kayıt)
-- `bolum-07-optik.json` — Optik: İbn el-Heysem deney düzenekleri, yansıma/kırılma, camera obscura (kitap s. 59-62, diğer aletler s. 146, 11 kayıt)
-- `bolum-08-fizik-teknik.json` — Fizik ve Teknik: Teraziler, Pompalar, Otomatlar, Değirmenler, Kilitler (kitap s. 63-71, diğer aletler s. 148-152, 35 kayıt)
-- `bolum-09-tip.json` — Tıp: cerrahi, oftalmoloji, KBB, üroloji, jinekoloji, ortopedi aletleri (Cilt IV, s. 37-90, 36 kayıt). **Diğer bölümlerden farklı üretildi:** kaynak belge JSON değil, görsellerden oluşan markdown listesiydi (başka bir AI'nin hazırladığı) — Claude bunu a-XXX açıklamalı veritabanıyla çapraz eşleştirip aynı şemaya dönüştürdü. Excel numaraları çoğunlukla eksik (Excel dosyası Tıp'ı grup halinde özetlemiş, tek tek değil). İki kesin mükerrer tespit edildi: Saç Yakma Koteri (a-256=a-451) ve Tabar (a-255=a-457). Üç kalem (Kan Ölçüm Teknesi, Katarakt İğnesi, Balon Şırınga) a-XXX havuzunda hiç yok — gerçek boşluk.
-- **Bölüm 1-9 tamam, kesintisiz.** Devamı (Bölüm 10+) bekleniyor.
+a-XXX künye kayıtlarını gerçek fiziksel/Excel envanter numaralarıyla eşleştiren, mükerrer kayıtları tespit eden çalışmalar. Kullanıcının verdiği resmî bölümleme planı (kitap "Altın Çağın Teknolojik Mirası" 2019 kataloğunun kendi sayfa numaralandırmasına göre):
+
+| # | Bölüm | Kitap Sayfaları | Diğer Aletler Sayfaları | Durum |
+|---|---|---|---|---|
+| 1 | Astronomi: Rasathaneler ve Gözlem Aletleri | s.13-21 | s.104-108 | ✅ `bolum-01-astronomi-rasathaneler.json` |
+| 2 | Astronomi: Usturlaplar | s.23-32 | s.110-118 | ✅ `bolum-02-usturlaplar.json` |
+| 3 | Astronomi: Ekvatoryumlar + Muhelif Aletler | s.33-42 | s.120-128 | ✅ `bolum-03-ekvatoryumlar-mekanik.json` |
+| 4 | Coğrafya ve Seyrüsefer | s.43-46 | s.130-134 | ✅ `bolum-04-cografya-seyrusefer.json` |
+| 5 | Saatler | s.47-54 | s.136-138 | ✅ `bolum-05-saatler.json` |
+| 6 | Geometri ve Tesviye | s.55-57 | s.140-144 | ✅ `bolum-06-geometri-tesviye.json` |
+| 7 | Optik | s.59-62 | s.146 | ✅ `bolum-07-optik.json` |
+| 8 | Fizik ve Teknik | s.63-71 | s.148-152 | ✅ `bolum-08-fizik-teknik.json` |
+| 9 | Askeri Teknoloji | s.73-77 | s.154-158 | ✅ `bolum-09-askeri-teknoloji.json` |
+| 10 | Kimya | s.79-83 | s.160-164 | ❌ **henüz gönderilmedi** |
+| 11 | Tıp | s.85-93 | s.166-167 | ✅ `bolum-11-tip.json` (bkz. not) |
+
+**Düzeltme notu:** Tıp dosyası ilk başta yanlışlıkla "bolum-09" olarak kaydedilmişti (kaynak belge görsellerden derlenmiş markdown olduğu için bölüm numarası belirsizdi). Kullanıcının bu tabloyu paylaşmasıyla doğru yerine (Bölüm 11) taşındı. O dosyanın içindeki kayıt bazlı `kitap_sayfa`/`kitap_cilt` alanları katalog sayfası değil, Sezgin'in 5 ciltlik "İslam'da Bilim ve Teknik" eserindeki asıl kaynak sayfasını gösteriyor (çoğunlukla Cilt IV, s.37-90) — iki ayrı sayfalama sistemi olduğu dosya içinde ayrıca not edildi.
+
+**Bölüm 10 (Kimya) eksik — sıradaki boşluk budur.**

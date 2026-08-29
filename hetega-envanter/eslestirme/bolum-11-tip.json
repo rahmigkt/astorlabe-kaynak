@@ -1,9 +1,9 @@
 {
-  "bolum": 9,
+  "bolum": 11,
   "bolum_baslik": "Tıp (Ortaçağ İslam Geleneğinde Tıbbi Teknoloji)",
-  "kitap_sayfalari": "37-90",
-  "diger_aletler_sayfalari": null,
-  "_not": "Bu bölüm kaynak belgede JSON formatında değil, görsellerden oluşan bir markdown listesi olarak geldi (başka bir AI tarafından hazırlanmış). Claude tarafından a-XXX açıklamalı veritabanıyla (eserler-kunye-v2-acikamali) çapraz eşleştirilip aynı şemaya dönüştürüldü. excel_envanter_no alanı çoğu satırda boş: Excel-5cilt-eslesme-tam.txt dosyası Tıp bölümünü tek tek değil, birkaç grup kaydıyla (41035, 41036, 41082 gibi) özetlemiş — kalemler bazında Excel numarası mevcut değil, sadece iki grup referansı var. Ayrıca iki net mükerrer tespit edildi: 'Saç Yakma Koteri' (a-256 = a-451, aynı sayfa/envanterNo H2.24) ve 'Tabar' (a-255 = a-457, aynı sayfa s.50). Üç kalemin (Kan Ölçüm Teknesi, Katarakt İğnesi, Balon Şırınga) a-XXX havuzunda hiç karşılığı yok — gerçek boşluk, henüz katalogda değiller.",
+  "kitap_sayfalari": "85-93",
+  "diger_aletler_sayfalari": "166-167",
+  "_not": "DÜZELTME: Bu dosya ilk başta yanlışlıkla 'bolum-09' olarak kaydedilmişti. Kullanıcının paylaştığı referans tabloya göre doğru sırası Bölüm 11'dir (kitap s.85-93, diğer aletler s.166-167 — 'Altın Çağın Teknolojik Mirası' kataloğundaki sayfa numaraları). ÖNEMLİ AYRIM: Bu üst seviye 'kitap_sayfalari'/'diger_aletler_sayfalari' alanları 2019 katalog kitabının kendi sayfa numaralandırmasına aittir. Kayıtların içindeki 'kitap_sayfa'/'kitap_cilt' alanları ise Prof. Dr. Fuat Sezgin'in 5 ciltlik 'İslam'da Bilim ve Teknik' eserindeki asıl bilimsel kaynak sayfasını gösterir (bu bölümde çoğunlukla Cilt IV, s.37-90) — iki farklı sayfalama sistemi, karıştırılmamalı. Bu bölüm kaynak belgede JSON formatında değil, görsellerden oluşan bir markdown listesi olarak geldi (başka bir AI tarafından hazırlanmış). Claude tarafından a-XXX açıklamalı veritabanıyla (eserler-kunye-v2-acikamali) çapraz eşleştirilip aynı şemaya dönüştürüldü. excel_envanter_no alanı çoğu satırda boş: Excel-5cilt-eslesme-tam.txt dosyası Tıp bölümünü tek tek değil, birkaç grup kaydıyla (41035, 41036, 41082 gibi) özetlemiş — kalemler bazında Excel numarası mevcut değil, sadece iki grup referansı var. Ayrıca iki net mükerrer tespit edildi: 'Saç Yakma Koteri' (a-256 = a-451, aynı sayfa/envanterNo H2.24) ve 'Tabar' (a-255 = a-457, aynı sayfa s.50). Üç kalemin (Kan Ölçüm Teknesi, Katarakt İğnesi, Balon Şırınga) a-XXX havuzunda hiç karşılığı yok — gerçek boşluk, henüz katalogda değiller.",
   "kayitlar": [
     {
       "id": "tip-kitap-01",
@@ -33,7 +33,9 @@
       "baslik": "Gözyaşı Bezi Fistülü Koteri",
       "kitap_sayfa": 42,
       "kitap_cilt": "IV",
-      "json_id": ["a-042"],
+      "json_id": [
+        "a-042"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.01",
       "aciklama": "ez-Zehrâvî; göz kenarındaki fistüllerin yakılarak tedavisi."
@@ -44,7 +46,10 @@
       "baslik": "Saç Yakma Koteri (li-keyy mevâdic eş-şa'r)",
       "kitap_sayfa": "48-50",
       "kitap_cilt": "IV",
-      "json_id": ["a-256", "a-451"],
+      "json_id": [
+        "a-256",
+        "a-451"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.24",
       "aciklama": "Halîfe el-Halebî; göz kapağı/kaş çevresindeki fazla saç köklerini yakma. NOT: a-256 ve a-451 birebir aynı kayıt (aynı başlık, sayfa, envanterNo) — a-XXX havuzunda mükerrer, tekilleştirme gerekiyor."
@@ -55,7 +60,9 @@
       "baslik": "Halka Formunda Omurga Koteri",
       "kitap_sayfa": 67,
       "kitap_cilt": "IV",
-      "json_id": ["a-058"],
+      "json_id": [
+        "a-058"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 7.01",
       "aciklama": "ez-Zehrâvî; çocukların ağrılı omurga rahatsızlıklarında sırt altı dağlaması."
@@ -66,7 +73,9 @@
       "baslik": "Gözyaşı Fistülleri İçin Temizleyici (mikvât el-ğarab)",
       "kitap_sayfa": "42-43",
       "kitap_cilt": "IV",
-      "json_id": ["a-043"],
+      "json_id": [
+        "a-043"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.02",
       "aciklama": "Halîfe b. Ebî el-Mehâsin el-Halebî, el-Kâfî fî el-Kuhl; yakma yöntemini istemeyen hastalarda göz kenarı temizliği."
@@ -77,7 +86,9 @@
       "baslik": "Kargı (Harbe)",
       "kitap_sayfa": 45,
       "kitap_cilt": "IV",
-      "json_id": ["a-044"],
+      "json_id": [
+        "a-044"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.12",
       "aciklama": "Deri altındaki şişkinlikleri yarıp kesmek için sivri uçlu alet. NOT: kaynak belgede el-Halebî'ye atfedilmiş, a-XXX kaydında ez-Zehrâvî yazıyor — çelişki, kaynak metinle teyit gerekir."
@@ -88,7 +99,9 @@
       "baslik": "Cımbız",
       "kitap_sayfa": "57-58",
       "kitap_cilt": "IV",
-      "json_id": ["a-179"],
+      "json_id": [
+        "a-179"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 4.02",
       "aciklama": "ez-Zehrâvî; işitme kanalı veya gözdeki yabancı cisimleri kavrayıp çıkarma."
@@ -99,7 +112,9 @@
       "baslik": "Makas Benzeri Alet (âle tuşbihu el-mikaşş)",
       "kitap_sayfa": 57,
       "kitap_cilt": "IV",
-      "json_id": ["a-051"],
+      "json_id": [
+        "a-051"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 4.05",
       "aciklama": "ez-Zehrâvî; bademcik ve yutak tümörlerini kesip çıkarmak için makas/neşter hibriti."
@@ -110,7 +125,9 @@
       "baslik": "Başak Kılçığı Pensesi (kelbetân nuşüliyye)",
       "kitap_sayfa": 53,
       "kitap_cilt": "IV",
-      "json_id": ["a-049"],
+      "json_id": [
+        "a-049"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.20",
       "aciklama": "Halîfe el-Halebî; göze batan başak kılçığı gibi ince yabancı cisimleri çıkaran perçinli pens."
@@ -121,7 +138,9 @@
       "baslik": "Mersin Yaprağı (âse)",
       "kitap_sayfa": 47,
       "kitap_cilt": "IV",
-      "json_id": ["a-045"],
+      "json_id": [
+        "a-045"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.10",
       "aciklama": "Halîfe el-Halebî; göz kapağı yapışıklıklarını ayırmak için ince uçlu alet."
@@ -143,7 +162,9 @@
       "baslik": "Diş Taşı Kazıyıcılar (14 Adet Raspatör)",
       "kitap_sayfa": "61-62",
       "kitap_cilt": "IV",
-      "json_id": ["a-053"],
+      "json_id": [
+        "a-053"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "ez-Zehrâvî; diş taşlarını kazımak için farklı bölgelere özel 14 form/şekilde tasarlanmış aletler."
@@ -154,7 +175,9 @@
       "baslik": "Piston Şırınga (Zerrâka / Mihkan)",
       "kitap_sayfa": 70,
       "kitap_cilt": "IV",
-      "json_id": ["a-060"],
+      "json_id": [
+        "a-060"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "ez-Zehrâvî; mesanedeki cerahati temizlemek için ilaç şırınga etme; fildişi/gümüş; ilk kez İslam medeniyetinde kullanılmış."
@@ -165,8 +188,12 @@
       "baslik": "Germe Bankı",
       "kitap_sayfa": 82,
       "kitap_cilt": "IV",
-      "json_id": ["a-068"],
-      "excel_envanter_no": ["41082"],
+      "json_id": [
+        "a-068"
+      ],
+      "excel_envanter_no": [
+        "41082"
+      ],
       "envanter_kodu": "H 3.05",
       "aciklama": "ez-Zehrâvî; sırt omurları çıkıklarının tedavisi için hastanın gerildiği ahşap ortopedik bank. Excel'de 'Orthopaedic bench' olarak tekil kayıt mevcut — bu bölümde itemize edilmiş nadir örneklerden."
     },
@@ -176,7 +203,9 @@
       "baslik": "Büyük Yay Testere (Minşâr)",
       "kitap_sayfa": 88,
       "kitap_cilt": "IV",
-      "json_id": ["a-072"],
+      "json_id": [
+        "a-072"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 3.18",
       "aciklama": "ez-Zehrâvî; kemik kesme (ampütasyon vb.) ameliyatlarında kullanılan büyük testere. a-XXX'te 'Yaprak Testere' olarak geçiyor, aynı obje olduğu değerlendirildi."
@@ -187,7 +216,9 @@
       "baslik": "İki Plakalı Speculum (Levleb)",
       "kitap_sayfa": 73,
       "kitap_cilt": "IV",
-      "json_id": ["a-062"],
+      "json_id": [
+        "a-062"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "ez-Zehrâvî; jinekolojik muayenede rahim ağzını açmak için vidalı iki plakalı alet."
@@ -198,7 +229,9 @@
       "baslik": "İki Dikenli Kanca (Şinnâre)",
       "kitap_sayfa": 80,
       "kitap_cilt": "IV",
-      "json_id": ["a-065"],
+      "json_id": [
+        "a-065"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 6.06-07",
       "aciklama": "ez-Zehrâvî; ölü ceninin rahimden çıkarılması için jinekolojik kanca."
@@ -209,7 +242,10 @@
       "baslik": "Tabar (Balta Bıçak, Alın Toplardamarı)",
       "kitap_sayfa": 50,
       "kitap_cilt": "IV",
-      "json_id": ["a-255", "a-457"],
+      "json_id": [
+        "a-255",
+        "a-457"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "ez-Zehrâvî; alın toplardamarını açmak (fasd) için balta biçimli cerrahi bıçak. NOT: a-255 ve a-457 birebir aynı kayıt (aynı başlık, sayfa, yaratıcı) — a-XXX havuzunda mükerrer, tekilleştirme gerekiyor."
@@ -220,7 +256,9 @@
       "baslik": "Orak (Mincel)",
       "kitap_sayfa": 52,
       "kitap_cilt": "IV",
-      "json_id": ["a-047"],
+      "json_id": [
+        "a-047"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Halîfe el-Halebî; göz kapağı ve tavşan-göz (şifre) cerrahisinde kullanılan orak biçimli alet."
@@ -231,7 +269,13 @@
       "baslik": "Koter (çeşitli formlarda dağlama aletleri, genel grup)",
       "kitap_sayfa": null,
       "kitap_cilt": "IV",
-      "json_id": ["a-036", "a-037", "a-038", "a-039", "a-040"],
+      "json_id": [
+        "a-036",
+        "a-037",
+        "a-038",
+        "a-039",
+        "a-040"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Ekler listesindeki 1. ve 2. kayıt ('Koter', 'Koter'), a-XXX havuzunda tekil koter kayıtlarına (Soğuk Karaciğer, Ayak/Baldır, Zeytin, Yüz Felci I-II) karşılık geliyor — ek liste bunları tek satırda özetlemiş."
@@ -253,7 +297,9 @@
       "baslik": "Mersin Yaprağı (Göz kapağı ayırıcı)",
       "kitap_sayfa": 47,
       "kitap_cilt": "IV",
-      "json_id": ["a-045"],
+      "json_id": [
+        "a-045"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.10",
       "aciklama": "Ek listenin 4. kaydı; tip-kitap-11 ile aynı obje (a-045)."
@@ -264,7 +310,9 @@
       "baslik": "Neşter (Mibda')",
       "kitap_sayfa": 40,
       "kitap_cilt": "IV",
-      "json_id": ["a-041"],
+      "json_id": [
+        "a-041"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 3.07",
       "aciklama": "Ek listenin 5. kaydı; a-041 (Şakak Atardamarları neşteri) ile eşleşiyor, ancak ez-Zehrâvî'nin birden fazla neşter modeli var (a-046, a-052, a-070 de aday)."
@@ -275,7 +323,10 @@
       "baslik": "Koterizasyon Aleti (genel)",
       "kitap_sayfa": null,
       "kitap_cilt": "IV",
-      "json_id": ["a-066", "a-067"],
+      "json_id": [
+        "a-066",
+        "a-067"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Ek listenin 6. kaydı; muhtemelen 'İki/Üç Kargılı Koter' (a-066, a-067) grubuna karşılık geliyor — kesin değil."
@@ -286,7 +337,10 @@
       "baslik": "Cerrahi Makas",
       "kitap_sayfa": "57-58",
       "kitap_cilt": "IV",
-      "json_id": ["a-051", "a-052"],
+      "json_id": [
+        "a-051",
+        "a-052"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 4.05",
       "aciklama": "Ek listenin 7. kaydı; 'Makas Benzeri Alet' (a-051) veya 'Neşter–Bademcik' (a-052) olabilir."
@@ -297,7 +351,9 @@
       "baslik": "Kargaburnu (şeft / caft)",
       "kitap_sayfa": 52,
       "kitap_cilt": "IV",
-      "json_id": ["a-048"],
+      "json_id": [
+        "a-048"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Ek listenin 8. kaydı; a-048 ile birebir eşleşiyor."
@@ -308,7 +364,9 @@
       "baslik": "İki Dikenli Kanca",
       "kitap_sayfa": 80,
       "kitap_cilt": "IV",
-      "json_id": ["a-065"],
+      "json_id": [
+        "a-065"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 6.06-07",
       "aciklama": "Ek listenin 9. kaydı; tip-kitap-18 ile aynı obje (a-065)."
@@ -319,7 +377,10 @@
       "baslik": "Balta (ṭabar)",
       "kitap_sayfa": 50,
       "kitap_cilt": "IV",
-      "json_id": ["a-255", "a-457"],
+      "json_id": [
+        "a-255",
+        "a-457"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Ek listenin 10. kaydı; tip-kitap-19 ile aynı obje, aynı mükerrer durum (a-255=a-457)."
@@ -330,7 +391,9 @@
       "baslik": "Orak (mincel)",
       "kitap_sayfa": 52,
       "kitap_cilt": "IV",
-      "json_id": ["a-047"],
+      "json_id": [
+        "a-047"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Ek listenin 11. kaydı; tip-kitap-20 ile aynı obje (a-047)."
@@ -341,7 +404,9 @@
       "baslik": "Makas",
       "kitap_sayfa": 75,
       "kitap_cilt": "IV",
-      "json_id": ["a-063"],
+      "json_id": [
+        "a-063"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Ek listenin 12. kaydı; '«Makas Speculum»' (a-063) olarak değerlendirildi, kesin değil."
@@ -352,7 +417,9 @@
       "baslik": "Başak Kılçığı Pensesi",
       "kitap_sayfa": 53,
       "kitap_cilt": "IV",
-      "json_id": ["a-049"],
+      "json_id": [
+        "a-049"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 2.20",
       "aciklama": "Ek listenin 13. kaydı; tip-kitap-10 ile aynı obje (a-049)."
@@ -374,7 +441,10 @@
       "baslik": "Kazıyıcı (Raspatör)",
       "kitap_sayfa": "61-62, 86-87",
       "kitap_cilt": "IV",
-      "json_id": ["a-053", "a-071"],
+      "json_id": [
+        "a-053",
+        "a-071"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 3.12",
       "aciklama": "Ek listenin 15. kaydı; 'Diş Taşı Raspatörü' (a-053) veya 'Soyucu/Raspatorium' (a-071) olabilir — iki farklı raspatör var, hangisi kastedildiği net değil."
@@ -385,7 +455,9 @@
       "baslik": "İki Plakalı Speculum",
       "kitap_sayfa": 73,
       "kitap_cilt": "IV",
-      "json_id": ["a-062"],
+      "json_id": [
+        "a-062"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": null,
       "aciklama": "Ek listenin 16. kaydı; tip-kitap-17 ile aynı obje (a-062)."
@@ -396,7 +468,9 @@
       "baslik": "«Eskilerin» (el-evâ'il) Aleti",
       "kitap_sayfa": 76,
       "kitap_cilt": "IV",
-      "json_id": ["a-064"],
+      "json_id": [
+        "a-064"
+      ],
       "excel_envanter_no": [],
       "envanter_kodu": "H 6.053",
       "aciklama": "Ek listenin 17. ve son kaydı; cenin tahliyesinde kullanılan antik/erken dönem alet; a-064 ile birebir eşleşiyor."
