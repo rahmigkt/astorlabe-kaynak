@@ -1,0 +1,129 @@
+{
+  "bolum": 7,
+  "bolum_baslik": "Optik",
+  "kitap_sayfalari": "59-62",
+  "diger_aletler_sayfalari": "146",
+  "kayitlar": [
+    {
+      "id": "optik-kitap-01",
+      "kaynak": "kitap",
+      "baslik": "İbn el-Heysem'in Yansıma Deneylerinde Kullandığı 'Yansıma Aleti'",
+      "kitap_sayfa": 60,
+      "kitap_cilt": "III",
+      "json_id": ["a-034", "a-275"],
+      "excel_envanter_no": ["35170"],
+      "envanter_kodu": null,
+      "aciklama": "Kitâbü'l-Menâzır'ın dördüncü risalesi; yansıma yasasını silindir, konik ve küresel aynalarda gösteren deney düzeneği; yarım daire pirinç levha + ahşap yarım silindir; yarıçap ~10 cm; Latince Opticae Thesaurus (1572) ile Avrupa'ya aktarılmış."
+    },
+    {
+      "id": "optik-kitap-02",
+      "kaynak": "kitap",
+      "baslik": "Kemâleddîn el-Fârîsî'nin Gökkuşağı Açıklaması",
+      "kitap_sayfa": 61,
+      "kitap_cilt": "III",
+      "json_id": ["a-275"],
+      "excel_envanter_no": [],
+      "envanter_kodu": null,
+      "aciklama": "Tenkîh el-Menâzır; Kutbeddîn eş-Şîrâzî'nin öğrencisi; gökkuşağının oluşumuna dair ilk doğru matematiksel açıklama; güneş ışığı yağmur damlasında iki kere kırılır ve bir-iki kere yansır; destekleyen deney düzeneği; İbn el-Heysem'in eserini meşhur kılan şerh (15 nüsha vs. 1 tam nüsha)."
+    },
+    {
+      "id": "optik-kitap-03",
+      "kaynak": "kitap",
+      "baslik": "İbn-i Heysem'in Ay Gözlem Aleti",
+      "kitap_sayfa": 62,
+      "kitap_cilt": "III",
+      "json_id": ["a-276"],
+      "excel_envanter_no": ["35172"],
+      "envanter_kodu": null,
+      "aciklama": "Makâle fî Dav' el-Kamer risalesi; Ay'ın kendinden ışık saçan cisim olmadığını, yansıtan saydam cisim olduğunu ispat için icat edilen alet; Karl Kohl tarafından Almancaya çevrilmiş (1926-27)."
+    },
+    {
+      "id": "optik-diger-01",
+      "kaynak": "diger_aletler",
+      "baslik": "Gözlemleme Aleti",
+      "kitap_sayfa": 146,
+      "kitap_cilt": "III",
+      "json_id": ["a-275", "a-330"],
+      "excel_envanter_no": ["35176"],
+      "envanter_kodu": null,
+      "aciklama": "Işığın kırılmasını gözlemlemek için deney düzeneği; Excel'de 'Apparatus for the Observation of the Refraction of Light'."
+    },
+    {
+      "id": "optik-diger-02",
+      "kaynak": "diger_aletler",
+      "baslik": "Fecir Işığı Işınlarının Doğrusal Cereyan Ettiğini İspatlamak İçin Deney Düzeneği",
+      "kitap_sayfa": 146,
+      "kitap_cilt": "III",
+      "json_id": ["a-275"],
+      "excel_envanter_no": ["35178"],
+      "envanter_kodu": null,
+      "aciklama": "İbn el-Heysem'in sabah/fecir ışınlarının doğrusal hareket ettiğini ispatlayan deney düzeneği."
+    },
+    {
+      "id": "optik-diger-03",
+      "kaynak": "diger_aletler",
+      "baslik": "Karanlık Oda (Camera Obscura)",
+      "kitap_sayfa": 146,
+      "kitap_cilt": "II-III",
+      "json_id": ["a-156"],
+      "excel_envanter_no": ["35182"],
+      "envanter_kodu": null,
+      "aciklama": "beyt muzlim; İbn el-Heysem'in kamera obscura deney düzeneği; ışığın doğrusal hareketinin ispatı; fotoğraf makinesinin öncülü."
+    },
+    {
+      "id": "optik-diger-04",
+      "kaynak": "diger_aletler",
+      "baslik": "Aksidentel Işığın Doğrusal Cereyan Ettiğini İspatlamak İçin Deney Düzeneği",
+      "kitap_sayfa": 146,
+      "kitap_cilt": "III",
+      "json_id": ["a-275"],
+      "excel_envanter_no": ["35180"],
+      "envanter_kodu": null,
+      "aciklama": "Aksidentel (yansıyan) ışığın doğrusal hareket ettiğini gösteren deney düzeneği."
+    },
+    {
+      "id": "optik-diger-05",
+      "kaynak": "diger_aletler",
+      "baslik": "İbn el-Heysem Problemi",
+      "kitap_sayfa": 146,
+      "kitap_cilt": "III",
+      "json_id": ["a-275", "a-330"],
+      "excel_envanter_no": ["35185"],
+      "envanter_kodu": null,
+      "aciklama": "İbn el-Heysem'in optik problemi (yansıma/kırılma noktasının belirlenmesi); 'Alhazen's problem' olarak Avrupa'da bilinir."
+    },
+    {
+      "id": "optik-excel-ek-01",
+      "kaynak": "excel",
+      "baslik": "Yansıma Teorisi Üzerine (bölüm)",
+      "kitap_sayfa": 163,
+      "kitap_cilt": "III",
+      "json_id": ["a-330"],
+      "excel_envanter_no": ["34163"],
+      "envanter_kodu": null,
+      "aciklama": "Optik bölümü girişi; yansıma teorisi üzerine; Excel'de Missing Objects listesinde (cat. III, p. 163-169)."
+    },
+    {
+      "id": "optik-excel-ek-02",
+      "kaynak": "excel",
+      "baslik": "Arşimed Aynası (yakıcı aynalar geleneği)",
+      "kitap_sayfa": 166,
+      "kitap_cilt": "III",
+      "json_id": ["a-159"],
+      "excel_envanter_no": [],
+      "envanter_kodu": null,
+      "aciklama": "Yakıcı aynalar geleneği; Arşimed'e nispet edilen ayna düzeneği; Excel'de müstakil kayıt yok, JSON'da a-159 olarak mevcut."
+    },
+    {
+      "id": "optik-excel-ek-03",
+      "kaynak": "excel",
+      "baslik": "Optik Disk Aleti (torna işi pirinç disk)",
+      "kitap_sayfa": 179,
+      "kitap_cilt": "III",
+      "json_id": ["a-035"],
+      "excel_envanter_no": [],
+      "envanter_kodu": "E 2.03",
+      "aciklama": "İbn el-Heysem geleneğine göre optik deney aleti; torna işi pirinç disk, çap 34 cm; Excel'de müstakil kayıt yok."
+    }
+  ]
+}
